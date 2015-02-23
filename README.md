@@ -119,7 +119,7 @@ nothing on Github will be affected until you make a `git push`.
 
 ### Making a change
 
-Thsi si a teriblee speld sentins.
+This is a terrible sentence.
 
 Fix the sentence above in an editor of your choice. We
 recommend `emacs`, `vim`, or Sublime Text. In particular,
